@@ -78,3 +78,15 @@ Open each Colab notebook using the provided links.
 Follow the instructions in the notebook to run the code and visualize the results.
 Ensure necessary libraries (e.g., NumPy, scikit-learn, PyCaret, PyOD) are installed in the Colab environment.
 
+
+Table of Contents
+K-Means Clustering
+Hierarchical Clustering
+Gaussian Mixture Models Clustering
+DBSCAN Clustering using PyCaret
+Anomaly Detection using PyOD
+Time Series Clustering using Pre-Trained Models
+Document Clustering with LLM Embeddings
+Image Clustering using ImageBind LLM Embeddings
+Audio Clustering using ImageBind LLM Embeddings
+
