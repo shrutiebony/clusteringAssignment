@@ -1,4 +1,5 @@
 ## Assignment Details
+### Youtube videos: https://www.youtube.com/watch?v=fX-Wkjac2l8
 1. K-Means Clustering from Scratch
 Implementation of the K-Means clustering algorithm from scratch, showcasing how data points are grouped into clusters based on centroids.
 
