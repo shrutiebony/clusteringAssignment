@@ -1,3 +1,5 @@
+### playing_around_with_clustering_techniques
+This repository explores multiple clustering and anomaly detection methods, ranging from traditional implementations (like K-Means) to modern approaches using LLM embeddings and pretrained multimodal models. Each technique is demonstrated through Jupyter/Colab notebooks with step-by-step explanations and visualizations.
 ##### Youtube video: https://www.youtube.com/watch?v=fX-Wkjac2l8
 1. K-Means Clustering from Scratch
 Implementation of the K-Means clustering algorithm from scratch, showcasing how data points are grouped into clusters based on centroids.
